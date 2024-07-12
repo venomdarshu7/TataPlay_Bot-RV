@@ -9,14 +9,14 @@ dirName = os.path.basename(dirPath)
 
 
 class TG_CONFIG:
-    api_id = 
+    api_id = 20738979
 
-    api_hash = ""
+    api_hash = "a6d015153068a35390a336fe0a38dd64"
 
     bot_token = ""
 
     #DEVS or #OWNERS
-    sudo_users = [1984763765, 6360672597]
+    sudo_users = [1287772731]
 
     session = "conan76_web_dl_bot"
 
