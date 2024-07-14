@@ -1,6 +1,6 @@
-# Join My Channel
+# The.punisheR
 
-The.punisgeR
+
 
 # TataPlay_Bot-RV
 
